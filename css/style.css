@@ -152,6 +152,7 @@ span.m-left {
     right: 50%;
     transform: translateX(-50%);
     z-index: 1;
+    color: #fff;
 }
 
 a.about-me-info p {
@@ -202,7 +203,7 @@ a.about-me-info p {
 }
 
 div[class^='tag-'] {
-    /* clip-path: polygon(75% 0%, 100% 50%, 75% 100%, 0% 100%, 0% 50%, 0%  0%); */
+    clip-path: polygon(75% 0%, 100% 50%, 75% 100%, 0% 100%, 0% 50%, 0%  0%);
     width: 120px;
     height: 30px;
     background-color: #178;
