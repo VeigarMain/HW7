@@ -42,7 +42,7 @@ header a,
 .languages h1,
 .work h1,
 .contact h1 {
-    color: 707070;
+    color: #707070;
 }
 
 li {
@@ -153,6 +153,7 @@ span.m-left {
     transform: translateX(-50%);
     z-index: 1;
     color: #fff;
+    
 }
 
 a.about-me-info p {
@@ -347,9 +348,7 @@ footer {
   .footerborder {
       border-width: 5px !important;
       border-color: teal !important;
-      
-  }
-
+  }   
   
 
   @media only screen and (max-width: 640px) {
